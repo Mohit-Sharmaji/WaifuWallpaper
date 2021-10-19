@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:enabled="true"
+        android:title="Filter Waifu">
+        <menu>
+                <item
+                    android:id="@+id/sfwMenu"
+                    android:title="SFW"
+                    app:showAsAction="always">
+                    <menu>
+                        <item android:id="@+id/waifu"
+                            android:title="Waifu"/>
+                        <item android:id="@+id/neko"
+                            android:title="neko"/>
+                        <item android:id="@+id/shinobu"
+                            android:title="Shinobu"/>
+                        <item android:id="@+id/megumin"
+                            android:title="Megumin"/>
+                        <item android:id="@+id/bully"
+                            android:title="Bully"/>
+
+                    </menu>
+                </item>
+
+                <item
+                    android:id="@+id/nsfwMenu"
+                    android:title="NSFW"
+                    android:visible="true"
+                    app:showAsAction="always" />
+        </menu>
+
+    </item>
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/FollowMe"
+                android:icon="@drawable/ic_send_24"
+                android:title="Follow ME"/>
+        </menu>
+    </item>
+
+</menu>

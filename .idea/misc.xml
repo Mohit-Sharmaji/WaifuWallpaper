@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mohit/AndroidStudioProjects/WallpaperProject/app/src/main/res/drawable/curved_corner.xml" value="0.7607142857142857" />
+        <entry key="..\:/Users/mohit/AndroidStudioProjects/WallpaperProject/app/src/main/res/drawable/ic_exit_to_app_24.xml" value="0.1" />
+        <entry key="..\:/Users/mohit/AndroidStudioProjects/WallpaperProject/app/src/main/res/drawable/ic_filter_alt_24.xml" value="0.1" />
+        <entry key="..\:/Users/mohit/AndroidStudioProjects/WallpaperProject/app/src/main/res/drawable/ic_menu_24.xml" value="0.1" />
+        <entry key="..\:/Users/mohit/AndroidStudioProjects/WallpaperProject/app/src/main/res/drawable/ic_send_24.xml" value="0.1" />
+        <entry key="..\:/Users/mohit/AndroidStudioProjects/WallpaperProject/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/mohit/AndroidStudioProjects/WallpaperProject/app/src/main/res/layout/appbar_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/mohit/AndroidStudioProjects/WallpaperProject/app/src/main/res/layout/backdrop_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/mohit/AndroidStudioProjects/WallpaperProject/app/src/main/res/layout/expandable_child_style.xml" value="0.1" />
+        <entry key="..\:/Users/mohit/AndroidStudioProjects/WallpaperProject/app/src/main/res/layout/expandable_group_style.xml" value="0.1" />
+        <entry key="..\:/Users/mohit/AndroidStudioProjects/WallpaperProject/app/src/main/res/layout/foreground_layout.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/mohit/AndroidStudioProjects/WallpaperProject/app/src/main/res/layout/fragment_viewpager.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/mohit/AndroidStudioProjects/WallpaperProject/app/src/main/res/layout/item_drawer.xml" value="0.49122807017543857" />
+        <entry key="..\:/Users/mohit/AndroidStudioProjects/WallpaperProject/app/src/main/res/layout/nav_header.xml" value="0.22" />
+        <entry key="..\:/Users/mohit/AndroidStudioProjects/WallpaperProject/app/src/main/res/menu/drawer_menu.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/mohit/AndroidStudioProjects/WallpaperProject/app/src/main/res/menu/toolbar_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
